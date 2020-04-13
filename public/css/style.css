@@ -1,0 +1,125 @@
+.text-ques{
+    font-family: 'Questrial', sans-serif;
+}
+
+.text-monda{
+    font-family: 'Monda', sans-serif;
+}
+
+body{
+    background-color: #22272C;
+}
+
+.h4, h1, p{
+    margin: 0px;
+}
+
+.line-chart{
+    padding: 0px;
+}
+
+.dark-col{
+    background-color: #2A2E32;
+}
+
+.box-dark{
+    background-color: #212529;
+}
+
+.navbar{
+    background-color: #141E23;
+    padding: 8px 17px;
+}
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav .nav-item{
+    color: #E7E8EB;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 15px;
+}
+
+.navbar-nav .nav-item:hover{
+    font-size: 16px;
+}
+
+.nav-link{
+    color: #E7E8EB;
+}
+
+.my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+}
+
+.jumbotron{
+    /* padding: 30px 10px 30px 10px; */
+    /* height: 330px; */
+}
+
+.data-indo{
+    background-color: #E9ECEF;
+}
+
+.card{
+    
+}
+
+.head-indo{
+
+    font-size: 20px;
+}
+
+.img-logo{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.img-indo{
+    width: 40px;
+}
+
+.table-responsive{
+    display: block;
+    overflow-y: auto;
+    overflow-x: auto;
+    height: 500px;
+    width: 100%;
+}
+
+@media (max-width: 992px) {
+    .my-card{
+        left: 43%;
+    }
+    
+    /* .jumbotron{
+        height: 600px;
+    } */
+}
+
+/* @media(max-width: 756){
+    .jumbotron{
+        height: 600px;
+    }
+} */
+
+/* @media (max-width: 992px) {
+    .my-card{
+        left: 43%;
+    }
+    
+    .jumbotron{
+        height: 600px;
+    }
+} */
+
+/* @media (min-width: 	1140px){
+    .jumbotron{
+        height: 600px;
+    }
+} */
